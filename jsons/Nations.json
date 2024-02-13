@@ -1,0 +1,46 @@
+[
+    {
+        "name": "NASA",
+        "leaderName": "Artemis Mission Control",
+        "cities": [
+            "Artemis Site", "Outpost Alpha", "Outpost Bravo", "Outpost Charlie", "Outpost Delta",
+            "Outpost Echo", "Outpost Foxtrot", "Outpost Golf", "Outpost Hotel", "Outpost India",
+            "Outpost Juliett", "Outpost Kilo", "Outpost Lima", "Outpost Mike", "Outpost November", "Outpost Oscar"
+        ],
+
+        "startIntroPart1": "Welcome to the National Aeronautics and Space Administration!",
+        "startIntroPart2": "We planned to settle on the moon for a long time, and today is the day. Let the second space race begin!",
+
+        "introduction": "We were the first on the moon and we shall be the last!",
+        "declaringWar": "You can't really resist the will of a superpower, y'know?",
+        "attacked": "You have some courage. It won't last for long though.",
+        "defeated": "Luck was on your side. Just wait for Mars.",
+        "afterPeace": "Well, that went a little differenly than expected...",
+        "tradeRequest": "We want to trade.",
+
+        "neutralHello": "Hello!",
+        "hateHello": "Greetings."
+    },
+    {
+        "name": "Roscosmos",
+        "leaderName": "Lunagrad Council",
+        "cities": [
+            "Lunagrad", "Outpost Anna", "Outpost Boris", "Outpost Vasily", "Outpost Gregory", "Outpost Dmitri", 
+            "Outpost Yelena", "Outpost Zhenya", "Outpost Zinaida", "Outpost Ivan", "Outpost Konstantin", 
+            "Outpost Leonid", "Outpost Mikhail", "Outpost Nikolai", "Outpost Olga", "Outpost Pavel"
+        ],
+
+        "startIntroPart1": "Welcome to the Roscosmos State Corporation for Space Activities!",
+        "startIntroPart2": "We planned to settle on the moon for a long time, and today is the day. Let the second space race begin!",
+
+        "introduction": "We were the first to space, just that you know.",
+        "declaringWar": "Nothing personal, we're simply estabilishing a new rule.",
+        "attacked": "Bring it on, then.",
+        "defeated": "Unfortunate. Well, stuff happens.",
+        "afterPeace": "Good...",
+        "tradeRequest": "We see you have some interests and we are willing to compromise.",
+
+        "neutralHello": "Privet, friend!",
+        "hateHello": "Zdravstvuyte..."
+    }
+]

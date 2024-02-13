@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Human",
+        "movementType": "Land",
+        "uniques": ["May travel on Water tiles without embarking"]
+    },
+    {
+        "name": "Robot",
+        "movementType": "Land",
+        "uniques": ["May travel on Water tiles without embarking"]
+    },
+    {
+        "name": "Satelite",
+        "movementType": "Air",
+        "uniques": ["Must set up to ranged attack", "Invisible to non-adjacent units"]
+    }
+]
